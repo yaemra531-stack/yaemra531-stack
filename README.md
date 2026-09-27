@@ -9,24 +9,39 @@
 
 ---
 
-## 🏛️ 三大核心板块导航
+### ⚡ 快捷直达导航 (Quick Access & Bookmarks)
+每次打开主页，一键直达你的工作台、线上产品与行动准绳：
 
-这里是通往各个系统的总目录，点击即可直接进入对应项目：
+| 🎯 板块 / 目标 | 🚀 直达入口（点击直接打开） | 📦 对应开源仓库 |
+| :--- | :--- | :--- |
+| 📱 **雅思日记工作台** | 👉 [**点击打开【雅思日记】工作台 (本地 5173)**](http://localhost:5173) | [diary-content-system](https://github.com/yaemra531-stack/diary-content-system) |
+| 📚 **雅思干货大本营** | 👉 [**点击进入【16 步干货工作台】**](https://github.com/yaemra531-stack/creator-workspace/tree/main/03-16%E6%AD%A5%E5%B9%B2%E8%B4%A7%E8%8D%89%E7%88%BF) | [creator-workspace](https://github.com/yaemra531-stack/creator-workspace) |
+| 🛠️ **AI 好物周荐** | 👉 [**点击进入【AI 好物周荐专栏】**](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) | [creator-workspace/04-AI好物周荐](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) |
+| 💡 **博客随笔线上站** | 👉 [**点击打开【博客随笔】线上产品 (已全网发布)**](https://yaemra531-stack.github.io/ink-thought-blog/) | [ink-thought-blog](https://github.com/yaemra531-stack/ink-thought-blog) |
+| 📖 **创作者标准与心法** | 👉 [**点击直达《瓦斯创作者标准与心法手册》**](https://github.com/yaemra531-stack/creator-workspace/blob/main/00-%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%88%9D%E8%A1%B7/%E7%93%A6%E6%96%AF%E5%88%9B%E4%BD%9C%E8%80%85%E6%A0%87%E5%87%86%E4%B8%8E%E5%BF%83%E6%B3%95%E6%89%8B%E5%86%8C.md) | [00-架构与初衷](https://github.com/yaemra531-stack/creator-workspace/tree/main/00-%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%88%9D%E8%A1%B7) |
+
+---
+
+## 🏛️ 三大核心板块深度详情
 
 ### 📘 板块一：雅思 × AI（核心垂直主线）
 - 📱 **[雅思日记](https://github.com/yaemra531-stack/diary-content-system)**：
+  - *线上产品/工作台*：[点击直接打开写日记 (localhost:5173)](http://localhost:5173)
   - *定位*：记录 0 报班、0 外教纯靠 AI 学雅思的真实试验过程。
   - *用法*：灵感来了随手记，只记当天的一个具体卡点或一个小发现，一键生成小红书日常。
 - 📚 **[雅思干货](https://github.com/yaemra531-stack/creator-workspace)**：
+  - *大本营工作台*：[点击进入 16 步干货草稿库](https://github.com/yaemra531-stack/creator-workspace/tree/main/03-16%E6%AD%A5%E5%B9%B2%E8%B4%A7%E8%8D%89%E7%88%BF)
   - *定位*：将日记中摸索出来并切实验证有效的 AI 提分方法，沉淀为解决具体卡点的深度干货合集。
 
 ### 🛠️ 板块二：AI 好物周荐（实用武器库）
 - 🧰 **[每周好物专栏](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI好物周荐)**：
+  - *专栏工作台*：[点击进入周荐专栏目录](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90)
   - *定位*：每周真实自用精选。盘点 2~3 款高频实用的 AI 生产力神器。
   - *原则*：真实自用、不吹不黑，讲透具体使用场景与真实理由。
 
 ### 💡 板块三：博客随笔（思考与顿悟自留地）
-- 🌐 **[访问线上博客随笔](https://yaemra531-stack.github.io/ink-thought-blog/)** | [GitHub 仓库](https://github.com/yaemra531-stack/ink-thought-blog)：
+- 🌐 **[博客随笔线上产品](https://yaemra531-stack.github.io/ink-thought-blog/)** | [GitHub 仓库](https://github.com/yaemra531-stack/ink-thought-blog)：
+  - *线上产品*：[点击直接访问线上博客随笔 (https://yaemra531-stack.github.io/ink-thought-blog/)](https://yaemra531-stack.github.io/ink-thought-blog/)
   - *定位*：瓦斯的个人思想自留地。
   - *沉淀*：记录人机协同中的认知跃迁、读书顿悟与个人成长随想（如《努力进步，不求完美：戒掉完美主义与用力过猛》）。
 
@@ -44,7 +59,7 @@
 | **💡 博客随笔** | **破局三部曲（每 1~2 周）**<br>拒绝假大空与爹味说教，不写宏大叙事。只写自己踩过坑后真正想通的一件事。 | ① **顿悟金句**：直击本质（例：“努力进步，不求完美。从最小动作开始，持之以恒”）<br>② **真实踩坑/打脸故事**：如实讲清楚自己曾经哪里用力过猛、踩了什么坑<br>③ **破局心法与微小解法**：我是怎么想通的，以后采取什么具体最小动作 |
 | **📅 航海更新日志** | **极简三列表格**<br>每天随手记录微小推进，零心理负担。 | 表格规范：`日期 \| 所属板块 \| 完成 / 解决了什么`<br>原则：每条不超过 1~2 行大白话，不搞形式主义汇报。 |
 
-> 📖 **标准底稿与演进手册**：完整方法论与版本演化详见本地与 GitHub 仓库文档 [《瓦斯创作者标准与心法手册.md》](https://github.com/yaemra531-stack/creator-workspace/blob/main/00-%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%88%9D%E8%A1%B7/%E7%93%A6%E6%96%AF%E5%88%9B%E4%BD%9C%E8%80%85%E6%A0%87%E5%87%86%E4%B8%8E%E5%BF%83%E6%B3%95%E6%89%8B%E5%86%8C.md)。**标准是活着的文件，随着我们的创作节奏不断升级！**
+> 📖 **完整方法论底稿**：详见 [《瓦斯创作者标准与心法手册.md》](https://github.com/yaemra531-stack/creator-workspace/blob/main/00-%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%88%9D%E8%A1%B7/%E7%93%A6%E6%96%AF%E5%88%9B%E4%BD%9C%E8%80%85%E6%A0%87%E5%87%86%E4%B8%8E%E5%BF%83%E6%B3%95%E6%89%8B%E5%86%8C.md)。**标准是活着的文件，随着我们的创作节奏不断升级！**
 
 ---
 
@@ -52,6 +67,7 @@
 
 - [x] **三大板块确立**：梳理定位，完成系统解耦，建立全量公开母港。
 - [x] **交付标准制定**：确立极简交付约定（二选一法则、四要素、三部曲），释放认知负荷。
+- [x] **主页快捷直达**：主页新增工作台产品直连与标准手册快速跳转导航。
 - [ ] **雅思日记前锋起跑**：在小红书连载首批 7 篇日常日记，测试读者真实痛点。
 - [ ] **首篇雅思深度干货**：发布《单词总记不住？我换了个方法（配图实素材）》。
 - [ ] **启动《AI好物周荐》**：发布第 1 期自用精选工具图文。
@@ -65,6 +81,7 @@
 
 | 日期 | 所属板块 | 完成 / 解决了什么 |
 | :--- | :--- | :--- |
+| **2026-09-27** | 🌌 宇宙母港 | 主页顶层上线「工作台与产品快捷直通车」与「创作者标准手册」直达链接 |
 | **2026-09-27** | 📐 行动标准 | 在 GitHub 主页与创作者大本营正式上线「创作者交付标准与行动守则」，支持持续迭代 |
 | **2026-09-27** | 📱 雅思日记 | 侧边栏上线真实引导卡片（卡点与发现具体例子），恢复输入界面纯净平衡 |
 | **2026-09-27** | 📱 雅思日记 | 全面升级为纸质质感手记，上线夜间模式，全网名称校准为「雅思日记」 |
