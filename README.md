@@ -1,8 +1,8 @@
-# 🌌 创作者宇宙 · Creator Matrix
+# 🌌 瓦斯 · 创作者宇宙 (Gas Universe)
 ### *Building in Public · AI Native 探索者与实践者*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Creator-Curry%20(%40yaemra531--stack)-black?style=flat-square&logo=github" alt="Author" />
+  <img src="https://img.shields.io/badge/Creator-%E7%93%A6%E6%96%AF%20Gas%20(%40yaemra531--stack)-black?style=flat-square&logo=github" alt="Author" />
   <img src="https://img.shields.io/badge/Identity-AI%20%E5%8E%9F%E7%94%9F%E5%88%9B%E4%BD%9C%E8%80%85-4f46e5?style=flat-square" alt="Identity" />
   <img src="https://img.shields.io/badge/Mission-0%E6%8A%A5%E7%8F%AD0%E5%A4%96%E6%95%99%20%C3%97%20AI%E9%9B%85%E6%80%9D-f59e0b?style=flat-square" alt="Mission" />
   <img src="https://img.shields.io/badge/Philosophy-Building%20in%20Public-10b981?style=flat-square" alt="Building in Public" />
@@ -11,12 +11,12 @@
 
 ---
 
-## 🧭 创作者初衷与宇宙宣言
+## 🧭 瓦斯的初衷与宇宙宣言
 
 > **“在 AI 爆发的新时代，一个不报班、不请外教的普通人，纯靠 AI 能在短期内把雅思学到什么水平？”**  
 > **“如何借力 AI 摆脱内耗与完美主义，持续输出有价值的产品与思考？”**
 
-这里是我的**个人数字宇宙母港**。我选择将全部学习、创作、认知迭代与工具开发过程**全量透明公开（Building in Public）**。
+这里是**瓦斯（Curry）**的**个人数字宇宙母港**。我选择将全部学习、创作、认知迭代与工具开发过程**全量透明公开（Building in Public）**。
 
 - **不搞虚假包装**：展示真实的卡点、挫折与突破，做大家真实的**“行动替”**。
 - **拒绝爹味说教**：不灌鸡汤，只分享亲身踩坑并验证有效的实战方法。
@@ -27,23 +27,19 @@
 
 ## 🏛️ 三大核心支柱 (The Three Core Pillars)
 
-整个创作者宇宙由**“专业人设 + 流量武器库 + 思想灵魂”**三大核心支柱驱动：
+整个瓦斯宇宙由**“专业人设 + 流量武器库 + 思想灵魂”**三大核心支柱驱动：
 
 ```mermaid
 flowchart TD
-    subgraph 🌌 创作者宇宙 (Creator Matrix)
-        A["📘 支柱一: 雅思 × AI<br><b>【专业人设 · 垂直根据地】</b><br>0报班0外教的真实备考实验与提分交付"]
-        B["🛠️ 支柱二: AI 好物周荐<br><b>【流量破圈 · 实用武器库】</b><br>每周盘点2~3款真实高频神器, 讲透实操场景"]
-        C["💡 支柱三: 博客随笔<br><b>【思想灵魂 · 精神大后方】</b><br>人机协同下的认知跃迁与醍醐灌顶的顿悟长文"]
+    subgraph Matrix ["🌌 瓦斯 · 创作者宇宙"]
+        A["📘 支柱一：雅思 × AI<br><b>【专业人设 · 垂直主线】</b><br>0报班0外教的真实备考实验与提分交付"]
+        B["🛠️ 支柱二：AI 好物周荐<br><b>【流量破圈 · 实用武器库】</b><br>每周盘点2~3款真实高频神器，讲透实操场景"]
+        C["💡 支柱三：博客随笔<br><b>【思想灵魂 · 精神大后方】</b><br>人机协同下的认知跃迁与醍醐灌顶的顿悟长文"]
     end
 
     A -->|真实踩坑与解法| B
     B -->|人机协同的思考| C
     C -->|反哺专注力与心力| A
-
-    style A fill:#eff6ff,stroke:#3b82f6,stroke-width:2px;
-    style B fill:#fef3c7,stroke:#f59e0b,stroke-width:2px;
-    style C fill:#ecfdf5,stroke:#10b981,stroke-width:2px;
 ```
 
 ---
@@ -70,7 +66,7 @@ flowchart TD
 ### 💡 支柱三：博客随笔（思想灵魂与认知跃迁）
 
 * **载体**：🌐 **[墨语 · 独立博客 (Ink & Thought)](https://yaemra531-stack.github.io/ink-thought-blog/)** | 仓库：[`yaemra531-stack/ink-thought-blog`](https://github.com/yaemra531-stack/ink-thought-blog)
-* **定位**：个人的思想自留地与精神后花园。
+* **定位**：瓦斯的思想自留地与精神后花园。
 * **沉淀内容**：
   * 深度长文与顿悟笔记（如《努力进步，不求完美：戒掉完美主义与用力过猛》）；
   * 人与 AI 协同进化的心法；
@@ -84,7 +80,7 @@ flowchart TD
 
 ---
 
-## 🗺️ 创作者路线图 (Roadmap)
+## 🗺️ 瓦斯的创作者路线图 (Roadmap)
 
 - [x] **Phase 1 · 宇宙奠基（2026-09）**：梳理三大支柱，完成系统解耦，建立 GitHub 全量公开母港。
 - [ ] **Phase 2 · 雅思日记前锋起跑**：在小红书连载首批 7 篇日常备考日记，测试读者对 AI 备考真实痛点的反馈。
@@ -98,7 +94,7 @@ flowchart TD
 
 | 日期 | 板块 | 关键里程碑 / 记录 |
 | :--- | :--- | :--- |
-| **2026-09-27** | 🌌 宇宙启动 | **创作者宇宙正式启航！** 明确三大核心支柱；全量开源公开所有子仓库；确立 GitHub Profile 个人主页第一屏母港。 |
+| **2026-09-27** | 🌌 宇宙启动 | **瓦斯 · 创作者宇宙正式启航！** 明确三大核心支柱；全量开源公开所有子仓库；确立 GitHub Profile 个人主页第一屏母港。 |
 | **2026-09-27** | 💡 博客随笔 | 提炼核心心法《努力进步，不求完美：戒掉完美主义与用力过猛，从最小动作持之以恒》。 |
 | **2026-09-21** | 📚 雅思干货 | 完成首篇 16 步深度图文草稿《单词总记不住？我换了个方法（配图实素材）》定位与正文框架。 |
 
@@ -106,5 +102,5 @@ flowchart TD
 
 <p align="center">
   <i>努力进步，不求完美 · 持续微小迭代 · 建造属于自己的宇宙</i><br>
-  <sub>Created with passion by Curry · Powered by Antigravity Agent</sub>
+  <sub>Created with passion by 瓦斯 (Gas / Curry) · Powered by Antigravity Agent</sub>
 </p>
