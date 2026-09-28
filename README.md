@@ -20,6 +20,7 @@
 | 🛠️ **AI 好物周荐** | [📂 进入周荐专栏](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) | [creator-workspace/04-AI好物周荐](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) |
 | 💡 **博客随笔** | [🌐 访问线上网站](https://yaemra531-stack.github.io/ink-thought-blog/) | [ink-thought-blog](https://github.com/yaemra531-stack/ink-thought-blog) |
 | 📖 **创作者标准** | [📖 查看标准手册](https://github.com/yaemra531-stack/creator-workspace/blob/main/00-%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%88%9D%E8%A1%B7/%E7%93%A6%E6%96%AF%E5%88%9B%E4%BD%9C%E8%80%85%E6%A0%87%E5%87%86%E4%B8%8E%E5%BF%83%E6%B3%95%E6%89%8B%E5%86%8C.md) | [00-架构与初衷](https://github.com/yaemra531-stack/creator-workspace/tree/main/00-%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%88%9D%E8%A1%B7) |
+| 📅 **每日盘点** | [📅 进入每日终盘专区](https://github.com/yaemra531-stack/creator-workspace/tree/main/05-%E6%AF%8F%E6%97%A5%E7%9B%98%E7%82%B9) | [05-每日盘点](https://github.com/yaemra531-stack/creator-workspace/tree/main/05-%E6%AF%8F%E6%97%A5%E7%9B%98%E7%82%B9) |
 
 ---
 
