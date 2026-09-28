@@ -15,7 +15,7 @@
 
 | 🎯 板块 / 目标 | 🚀 直达入口 | 📦 对应开源仓库 |
 | :--- | :--- | :--- |
-| 📱 **雅思日记** | [🚀 打开工作台 (本地 5173)](http://localhost:5173) | [diary-content-system](https://github.com/yaemra531-stack/diary-content-system) |
+| 📱 **雅思日记** | [🚀 访问线上工作台](https://ielts-diary.yaemra531.workers.dev) | [diary-content-system](https://github.com/yaemra531-stack/diary-content-system) |
 | 📚 **雅思干货** | [📂 进入 16 步草稿库](https://github.com/yaemra531-stack/creator-workspace/tree/main/03-16%E6%AD%A5%E5%B9%B2%E8%B4%A7%E8%8D%89%E7%88%BF) | [creator-workspace](https://github.com/yaemra531-stack/creator-workspace) |
 | 🛠️ **AI 好物周荐** | [📂 进入周荐专栏](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) | [creator-workspace/04-AI好物周荐](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) |
 | 💡 **博客随笔** | [🌐 访问线上网站](https://yaemra531-stack.github.io/ink-thought-blog/) | [ink-thought-blog](https://github.com/yaemra531-stack/ink-thought-blog) |
@@ -28,7 +28,7 @@
 
 ### 📘 板块一：雅思 × AI（核心垂直主线）
 - 📱 **[雅思日记](https://github.com/yaemra531-stack/diary-content-system)**：
-  - *入口*：[打开工作台 (本地 5173)](http://localhost:5173) · [源码仓库](https://github.com/yaemra531-stack/diary-content-system)
+  - *入口*：[访问线上工作台](https://ielts-diary.yaemra531.workers.dev) · [源码仓库](https://github.com/yaemra531-stack/diary-content-system)
   - *定位*：记录 0 报班、0 外教纯靠 AI 学雅思的真实试验过程。
   - *用法*：灵感来了随手记，只记当天的一个具体卡点或一个小发现，一键生成小红书日常。
 - 📚 **[雅思干货](https://github.com/yaemra531-stack/creator-workspace)**：
