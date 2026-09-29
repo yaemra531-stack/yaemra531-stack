@@ -16,9 +16,11 @@
 | 🎯 板块 / 目标 | 🚀 直达入口 | 📦 对应开源仓库 |
 | :--- | :--- | :--- |
 | 📱 **雅思日记** | [🚀 访问线上工作台](https://ielts-diary.yaemra531.workers.dev) | [diary-content-system](https://github.com/yaemra531-stack/diary-content-system) |
+| 📘 **每日备战日记** | [📂 进入成型日记库](https://github.com/yaemra531-stack/creator-workspace/tree/main/02-%E6%88%90%E5%9E%8B%E6%97%A5%E8%AE%B0/%E6%AF%8F%E6%97%A5%E5%A4%87%E6%88%98%E6%97%A5%E8%AE%B0) | [02-成型日记](https://github.com/yaemra531-stack/creator-workspace/tree/main/02-%E6%88%90%E5%9E%8B%E6%97%A5%E8%AE%B0) |
 | 📚 **雅思干货** | [📂 进入 16 步草稿库](https://github.com/yaemra531-stack/creator-workspace/tree/main/03-16%E6%AD%A5%E5%B9%B2%E8%B4%A7%E8%8D%89%E7%88%BF) | [creator-workspace](https://github.com/yaemra531-stack/creator-workspace) |
 | 🛠️ **AI 好物周荐** | [📂 进入周荐专栏](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) | [creator-workspace/04-AI好物周荐](https://github.com/yaemra531-stack/creator-workspace/tree/main/04-AI%E5%A5%BD%E7%89%A9%E5%91%A8%E8%8D%90) |
 | 💡 **博客随笔** | [🌐 访问线上网站](https://yaemra531-stack.github.io/ink-thought-blog/) | [ink-thought-blog](https://github.com/yaemra531-stack/ink-thought-blog) |
+| ⚡ **云端 API 网关** | [⚡ 访问在线接口](https://creator-api-worker.yaemra531.workers.dev) | [creator-api-worker](https://creator-api-worker.yaemra531.workers.dev) |
 | 📖 **创作者标准** | [📖 查看标准手册](https://github.com/yaemra531-stack/creator-workspace/blob/main/00-%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%88%9D%E8%A1%B7/%E7%93%A6%E6%96%AF%E5%88%9B%E4%BD%9C%E8%80%85%E6%A0%87%E5%87%86%E4%B8%8E%E5%BF%83%E6%B3%95%E6%89%8B%E5%86%8C.md) | [00-架构与初衷](https://github.com/yaemra531-stack/creator-workspace/tree/main/00-%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%88%9D%E8%A1%B7) |
 | 📅 **每日盘点** | [📅 进入每日终盘专区](https://github.com/yaemra531-stack/creator-workspace/tree/main/05-%E6%AF%8F%E6%97%A5%E7%9B%98%E7%82%B9) | [05-每日盘点](https://github.com/yaemra531-stack/creator-workspace/tree/main/05-%E6%AF%8F%E6%97%A5%E7%9B%98%E7%82%B9) |
 
@@ -55,8 +57,12 @@
 - [x] **交付标准制定**：确立极简交付约定（二选一法则、四要素、三部曲、终盘同步机制），释放认知负荷。
 - [x] **主页快捷直达**：主页新增工作台产品直连与标准手册快速跳转导航。
 - [x] **21天公开挑战与权限隔离**：在博客随笔上线「21天 AI 雅思备战公开挑战」（双轨打卡契约、全球读者默认只读防篡改、口令激活站长管理模式）。
-- [ ] **核心技术卡点攻坚（首要任务）**：打破 LocalStorage 浏览器本地缓存限制，挂接无服务器云端实时数据库（如 Cloudflare D1 / Supabase / Workers KV），实现跨端（手机/电脑/全球读者）秒级实时同步。
-- [ ] **全网母港网址校准与浏览器标签页合辑**：云端部署打通后，校准 GitHub 母港全网链接，配置每日一键打开工作台标签页。
+- [x] **真云端实时数据库与统一 API 网关全面落地**：创建并部署 Cloudflare D1 关系型数据库与 Serverless API 网关（`creator-api-worker`），打通 `challenge_logs`、`thoughts`、`target_likes` 完整表结构与跨端实时秒级同步。
+- [x] **海明威风黄金标杆范文成型 & AI 转换引擎发布**：产出首篇 100 分标杆范文《Day 02｜听力 Part 3 连环卡壳》，确立 6 条日记体写作标准与《海明威日记体 AI 转换提示词引擎 v1.0》。
+- [x] **创作方法论认知闭环与风格参考入库**：沉淀从被骆驼祥子打动到倒推海明威记者经历、冰山原则与电报体的认知溯源长文，打通创作资产双向闭环。
+- [x] **全网母港网址校准**：校准日记系统、博客随笔、创作者大本营、云端 API 网关的正式公网地址。
+- [ ] **浏览器每日工作台标签页合辑**：在日常浏览器固化一键直达标签页组合。
+- [ ] **雅思实操卡点落地与 Day 04 打卡**：在真实备考中试验“3词强搭配”破解招数，产出真实日记。
 - [ ] **雅思日记前锋起跑**：在小红书连载首批 7 篇日常日记，测试读者真实痛点。
 - [ ] **首篇雅思深度干货**：发布《单词总记不住？我换了个方法（配图实素材）》。
 - [ ] **启动《AI好物周荐》**：发布第 1 期自用精选工具图文。
@@ -70,6 +76,16 @@
 
 | 日期 | 所属板块 | 完成 / 解决了什么 |
 | :--- | :--- | :--- |
+| **2026-09-29** | 💡 创作者心路 | 完善创作资产双向引用闭环，修正参考文错字，对齐全局状态与母港全网索引 |
+| **2026-09-28** | 💡 创作者心路 | 沉淀方法论认知链路《我是怎么找到自己的写作方式的》，追溯从骆驼祥子到海明威冰山理论 |
+| **2026-09-28** | 📐 写作标准 | 入库《写作风格参考·抖音博主骆驼祥子》，定稿 6 条日记体写作标准（单句单事实、时间顺序、冷峻反差、Show Don't Tell） |
+| **2026-09-28** | 📘 雅思日记 | 操刀首篇 100 分 Few-shot 黄金标杆范文《Day 02｜听力 Part 3 连环卡壳》，发布《海明威日记体 AI 转换提示词引擎 v1.0》 |
+| **2026-09-28** | 📘 雅思日记 | 设立每日备战日记库并上线 GitHub Actions 定时自动同步 D1 云端打卡工作流（Day 01~03 入库） |
+| **2026-09-28** | ⚡ 云端架构 | 部署 Cloudflare D1 关系型数据库与 Serverless API 网关（creator-api-worker），实现多端实时秒级同步与通行令鉴权 |
+| **2026-09-28** | ⚡ 极限抢救 | 深入 macOS Chrome LevelDB SSTable 底层二进制块，100% 零损恢复全部 7 条丢失的速记与打卡数据并固化入 D1 |
+| **2026-09-28** | 📱 雅思日记 | 上线多选日期 Markdown 智能导出器，支持标准排版与微调提示词，并部署至 Cloudflare Workers |
+| **2026-09-28** | 💡 博客随笔 | 永久解锁速记与参考录入入口，支持口令解锁；参考页升级为三大支柱研读中枢；修复运行时报错 |
+| **2026-09-28** | 📐 行动标准 | 凝练并发布「创作者受众第一性原理」（真实感 ➔ 代入感 ➔ 活人感），长篇随笔入库 |
 | **2026-09-27** | 🚧 待攻坚卡点 | **核心技术卡点**：打破 LocalStorage 浏览器限制，筹备接入云端实时数据库，实现跨设备（手机/电脑/陌生读者）一端修改、全网实时秒级同步 |
 | **2026-09-27** | 📐 行动标准 | 确立「每日终盘同步标准 (Daily Wrap)」：每日工作推进事项 ≥ 3 项时，收工前必须盘点「做的」与「没做的卡点」并推送到 GitHub |
 | **2026-09-27** | 💡 博客随笔 | 上线全站全量编辑与删除功能 (Full CRUD)，21 天打卡记录、速记卡片与长文均支持在线修改与重存 |
